@@ -4,6 +4,15 @@
 <p align="left">🌱 Hozirda o‘rganayapman: <strong>React.js, Node.js</strong></p>
 <p align="left">📫 Menga bog‘lanish: <a href="mailto:samandardolimov71@gmail.com">samandardolimov@gmail.com</a></p>
 
+
+---
+
+### 🌐 Mening sahifalarim
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Dolimov_2005)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://dolimov.uz)
+
+
 ---
 
 ## 📊 GitHub Statistikasi
