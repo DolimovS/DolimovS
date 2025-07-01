@@ -48,21 +48,21 @@
 
 
 <h1 align="center">
-  Salom <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" width="30px"/>, men Samandar
+  Hello <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" width="30px"/>, I'm Samandar
 </h1>
-<h3 align="center">🚀 Frontend Dasturchi bo‘lish sari harakatdaman</h3>
+<h3 align="center">🚀 On my journey to become a Frontend Developer</h3>
 
 ---
 
-- 💡 Men **HTML, CSS, JavaScript** asoslarini yaxshi bilaman  
-- 🌱 Hozirda **React.js**, **Node.js** va **MongoDB** texnologiyalarini o‘rganmoqdaman  
-- 👨‍💻 Hozirda bir nechta **portfolio** loyihalari ustida ishlayapman  
-- 🧠 Men doimiy **o‘z ustida ishlaydigan va yangi narsalarni o‘rganishga qiziqadigan** odamman  
-- 📫 Menga bog‘lanish: **[samandardolimov71@gmail.com](mailto:samandardolimov71@gmail.com)**
+- 💡 I have a good understanding of **HTML, CSS, and JavaScript**  
+- 🌱 Currently learning **React.js**, **Node.js**, and **MongoDB**  
+- 👨‍💻 Working on several **portfolio** projects at the moment  
+- 🧠 A person who is constantly **self-improving and eager to learn new things**  
+- 📫 Reach me at: **[samandardolimov71@gmail.com](mailto:samandardolimov71@gmail.com)**
 
 ---
 
-### 🧑‍💻 Haqimda qisqacha
+### 🧑‍💻 A Short About Me
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git" />
@@ -70,7 +70,7 @@
 
 ---
 
-### 🌐 Mening Profil Sahifalarim
+### 🌐 My Profile Pages
 
 <p align="center">
   <a href="https://dolimov.uz" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
@@ -81,7 +81,7 @@
 
 ---
 
-### 📈 GitHub Statistikasi
+### 📈 GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DolimovS&show_icons=true&theme=tokyonight" width="48%" height="200px"/>
@@ -90,7 +90,7 @@
 
 ---
 
-### 🧠 Codewars Darajam
+### 🧠 My Codewars Rank
 
 <p>
   <img src="https://www.codewars.com/users/DolimovS/badges/large" alt="Codewars badge" width="40%" />
@@ -98,12 +98,11 @@
 
 ---
 
-### 📚 Eng ko‘p ishlatiladigan tillar
+### 📚 Most Used Languages
 
 <p >
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DolimovS&layout=compact&theme=tokyonight" width="40%"/>
 </p>
-
 
 
 
