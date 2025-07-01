@@ -84,23 +84,24 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DolimovS&show_icons=true&theme=tokyonight" width="48%" height="200px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DolimovS&theme=tokyonight" width="48%" height="100%" height="200px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DolimovS&theme=tokyonight" width="48%" height="200px"/>
 </p>
 
 ---
 
+<p align="center>
 ### 🧠 Codewars darajam
 
 <p align="center">
-  <img src="https://www.codewars.com/users/DolimovS/badges/large" alt="Codewars badge" />
+  <img src="https://www.codewars.com/users/DolimovS/badges/large" alt="Codewars badge" width="40%" />
 </p>
 
----
 
 ### 📚 Eng ko‘p ishlatiladigan tillar
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DolimovS&layout=compact&theme=tokyonight" width="40%"/>
+</p>
 </p>
 
 
