@@ -85,7 +85,8 @@
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=DolimovS&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DolimovS&theme=tokyonight" width="48%" alt="Static" />
+ <img src="https://streak-stats.demolab.com/?user=DolimovS&theme=tokyonight" width="48%" alt="GitHub Streak Stats" />
+
 </p>
 
 ---
