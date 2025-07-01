@@ -1,4 +1,4 @@
-<h1 align="center">💻 Assalomu alaykum!</h1>
+<!-- <h1 align="center">💻 Assalomu alaykum!</h1>
 <h2 align="center">Men Samandar – kod yozishni sevuvchi frontenderman ⚡</h2>
 
 ---
@@ -44,6 +44,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,mongodb,git" />
 </p>
 
+ -->
 
 
 
@@ -56,8 +57,7 @@
 
 
 
-
-<!-- <h1 align="center">👋 Salom, men <span style="color:#ffa500;">Samandar Dolimov</span></h1>
+<h1 align="center">👋 Salom, men <span style="color:#ffa500;">Samandar Dolimov</span></h1>
 <h3 align="center">🚀 Frontend Dasturchi bo‘lish sari harakatdaman</h3>
 
 ---
@@ -110,7 +110,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DolimovS&layout=compact&theme=tokyonight" width="40%"/>
-</p> -->
+</p>
 
 
 
