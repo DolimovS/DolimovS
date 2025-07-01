@@ -10,6 +10,8 @@
 ### 🌐 Mening sahifalarim
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Dolimov_2005) <br>
+
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://dolimov.uz)
 
 
