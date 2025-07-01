@@ -65,7 +65,7 @@
 ### 🧑‍💻 Haqimda qisqacha
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git" />
 </p>
 
 ---
@@ -92,7 +92,7 @@
 
 ### 🧠 Codewars Darajam
 
-<p align="center">
+<p>
   <img src="https://www.codewars.com/users/DolimovS/badges/large" alt="Codewars badge" width="40%" />
 </p>
 
@@ -100,7 +100,7 @@
 
 ### 📚 Eng ko‘p ishlatiladigan tillar
 
-<p align="center">
+<p >
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DolimovS&layout=compact&theme=tokyonight" width="40%"/>
 </p>
 
