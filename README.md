@@ -1,4 +1,64 @@
-<h1 align="center">
+<h1 align="center">👋 Salom, men <span style="color:#ffa500;">Samandar Dolimov</span></h1>
+<h3 align="center">🚀 Frontend Dasturchi bo‘lish sari harakatdaman</h3>
+
+---
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,git" />
+</p>
+
+---
+
+### 🧑‍💻 Haqimda qisqacha
+
+- 💡 Men **HTML, CSS, JavaScript** asoslarini yaxshi bilaman  
+- 🌱 Hozirda **React.js**, **Node.js** va **MongoDB** texnologiyalarini o‘rganmoqdaman  
+- 👨‍💻 Hozirda bir nechta **portfolio** loyihalari ustida ishlayapman  
+- 🧠 Men doimiy **o‘z ustida ishlaydigan va yangi narsalarni o‘rganishga qiziqadigan** odamman  
+- 📫 Menga bog‘lanish: **[samandardolimov71@gmail.com](mailto:samandardolimov71@gmail.com)**
+
+---
+
+### 🌐 Mening Profil Sahifalarim
+
+<p align="center">
+  <a href="https://dolimov.uz" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+  <a href="https://t.me/Dolimov_2005" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://github.com/DolimovS" target="_blank"><img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://orcid.org/0000-0000-0000-0000" target="_blank"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" /></a>
+</p>
+
+---
+
+### 📈 GitHub Statistikasi
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DolimovS&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DolimovS&theme=tokyonight" width="48%"/>
+</p>
+
+---
+
+### 🧠 Codewars darajam
+
+<p align="center">
+  <img src="https://www.codewars.com/users/DolimovS/badges/large" alt="Codewars badge" />
+</p>
+
+---
+
+### 📚 Eng ko‘p ishlatiladigan tillar
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DolimovS&layout=compact&theme=tokyonight" width="40%"/>
+</p>
+
+
+
+
+
+
+<!-- <h1 align="center">
   Salom <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" width="30px"/> men Samandar
 </h1>
 <h3 align="center">Frontend dasturchi bo‘lish yo‘lida harakatdaman 🚀</h3>
@@ -77,7 +137,7 @@
   <a href="mailto:samandardolimov71@gmail.com" target="_blank">Email</a>
 </p>
 
-
+ -->
 
 
 
