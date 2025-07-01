@@ -1,4 +1,63 @@
-<h1 align="center">👋 Salom, men <span style="color:#ffa500;">Samandar Dolimov</span></h1>
+<h1 align="center">💻 Assalomu alaykum!</h1>
+<h2 align="center">Men Samandar – kod yozishni sevuvchi frontenderman ⚡</h2>
+
+---
+
+### 🧩 Men kimman?
+
+- 🔭 Hozirda React va Node bilan ishlayman
+- 🔥 Kod men uchun nafaqat texnologiya, balki san’at
+- 🧠 Har doim yangi narsalarni o‘rganishga tayyorman
+- 👨‍🎓 O‘z loyihalarim ustida ishlayapman
+
+---
+
+### 🧪 Texnologiyalarim
+
+- **Frontend**: HTML5, CSS3, Tailwind, JavaScript, React
+- **Backend**: Node.js (asosiy bilimlar)
+- **Database**: MongoDB (asosiy foydalanish)
+- **Versiya nazorati**: Git, GitHub
+
+---
+
+### 📈 Statistika
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DolimovS&theme=radical&show_icons=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=DolimovS&theme=radical&date_format=M%20j%5B%2C%20Y%5D" width="48%" />
+</p>
+
+---
+
+### 🔍 Loyiha faoliyatlarim
+
+- 📦 [Portfolio saytim](https://dolimov.uz)
+- 💬 [Telegram](https://t.me/Dolimov_2005)
+- 🧠 [Codewars](https://www.codewars.com/users/DolimovS)
+
+---
+
+### 🔧 Biladiganlarim ikonkalarda
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,mongodb,git" />
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- <h1 align="center">👋 Salom, men <span style="color:#ffa500;">Samandar Dolimov</span></h1>
 <h3 align="center">🚀 Frontend Dasturchi bo‘lish sari harakatdaman</h3>
 
 ---
@@ -51,7 +110,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DolimovS&layout=compact&theme=tokyonight" width="40%"/>
-</p>
+</p> -->
 
 
 
