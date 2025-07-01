@@ -90,16 +90,18 @@
 ---
 
 <p align="center>
-### 🧠 Codewars darajam
+
+
 
 <p align="center">
+### 🧠 Codewars darajam
   <img src="https://www.codewars.com/users/DolimovS/badges/large" alt="Codewars badge" width="40%" />
 </p>
 
 
-### 📚 Eng ko‘p ishlatiladigan tillar
 
 <p align="center">
+### 📚 Eng ko‘p ishlatiladigan tillar
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DolimovS&layout=compact&theme=tokyonight" width="40%"/>
 </p>
 </p>
