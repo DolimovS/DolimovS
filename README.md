@@ -48,16 +48,7 @@
 
 
 
-
-
-
-
-
-
-
-
-
-<h1 align="center">👋 Salom, men <span style="color:#ffa500;">Samandar Dolimov</span></h1>
+<h1 align="center"> Salom <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" width="30px"/>version 4.0.1, men <span style="color:#ffa500;">Samandar</span></h1>
 <h3 align="center">🚀 Frontend Dasturchi bo‘lish sari harakatdaman</h3>
 
 ---
@@ -118,7 +109,7 @@
 
 
 <!-- <h1 align="center">
-  Salom <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" width="30px"/> men Samandar
+  Salom <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" width="30px"/ men Samandar
 </h1>
 <h3 align="center">Frontend dasturchi bo‘lish yo‘lida harakatdaman 🚀</h3>
 
