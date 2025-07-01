@@ -47,25 +47,26 @@
  -->
 
 
-
-<h1 align="center"> Salom <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" width="30px"/>, men <span style="color:#ffa500;">Samandar</span></h1>
+<h1 align="center">
+  Salom <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" width="30px"/>, men Samandar
+</h1>
 <h3 align="center">🚀 Frontend Dasturchi bo‘lish sari harakatdaman</h3>
 
 ---
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,git" />
-</p>
-
----
-
-### 🧑‍💻 Haqimda qisqacha
 
 - 💡 Men **HTML, CSS, JavaScript** asoslarini yaxshi bilaman  
 - 🌱 Hozirda **React.js**, **Node.js** va **MongoDB** texnologiyalarini o‘rganmoqdaman  
 - 👨‍💻 Hozirda bir nechta **portfolio** loyihalari ustida ishlayapman  
 - 🧠 Men doimiy **o‘z ustida ishlaydigan va yangi narsalarni o‘rganishga qiziqadigan** odamman  
 - 📫 Menga bog‘lanish: **[samandardolimov71@gmail.com](mailto:samandardolimov71@gmail.com)**
+
+---
+
+### 🧑‍💻 Haqimda qisqacha
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,git" />
+</p>
 
 ---
 
@@ -89,22 +90,20 @@
 
 ---
 
-<p align="center>
-
-
+### 🧠 Codewars Darajam
 
 <p align="center">
-### 🧠 Codewars darajam
   <img src="https://www.codewars.com/users/DolimovS/badges/large" alt="Codewars badge" width="40%" />
 </p>
 
+---
 
+### 📚 Eng ko‘p ishlatiladigan tillar
 
 <p align="center">
-### 📚 Eng ko‘p ishlatiladigan tillar
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DolimovS&layout=compact&theme=tokyonight" width="40%"/>
 </p>
-</p>
+
 
 
 
