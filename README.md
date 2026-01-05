@@ -26,19 +26,19 @@
 
 - 💡 **Core Expertise**
   Passionate about building interactive and user-friendly web applications.
-  <br/>
+<br/>
 
 - ⚛️ **Frameworks**
   Highly skilled in **React.js** and **Vue.js** ecosystems.
-  <br/>
+<br/>
 
 - 🎨 **Styling**
   Advanced UI development using **Tailwind CSS** and Responsive Design.
-  <br/>
+<br/>
 
 - ⚡ **Optimization**
   Building fast, scalable, and optimized web apps using **Vite**.
-  <br/>
+<br/>
 
 - 🧠 **Mindset**
   Constantly learning and improving my skills in modern software architecture.
@@ -46,7 +46,6 @@
 ---
 
 ### 🛠 Tech Stack
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,vue,vite,git,github,vscode,figma,postman" />
 </p>
@@ -54,7 +53,6 @@
 ---
 
 ### 📊 GitHub Contributions
-
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DolimovS&theme=tokyonight" width="100%" />
 </div>
@@ -71,7 +69,6 @@
 ---
 
 ### 🏆 Coding Practice
-
 <p align="center">
   <a href="https://www.codewars.com/users/DolimovS" target="_blank">
     <img src="https://www.codewars.com/users/DolimovS/badges/large" alt="Codewars Profile" />
@@ -83,7 +80,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00D1FF&height=100&section=footer" width="100%"/>
 </div>
-
 <!--
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=00D1FF&height=150&section=header&text=Dolimov%20Samandar&fontSize=75&fontAlignY=45&animation=twinkling" width="100%"/>
