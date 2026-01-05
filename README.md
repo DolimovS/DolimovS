@@ -3,17 +3,17 @@
 
   <br/>
 
-  <h3>🚀 Frontend Engineer | Specialist in React & Vue</h3>
+  <h3>🚀 Frontend Engineer | React & Vue Specialist</h3>
 
   <p align="center">
     <a href="https://t.me/Dolimov_2005" target="_blank">
       <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
     </a>
-    &nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://dolimov.uz" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
     </a>
-    &nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="mailto:samandardolimov71@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
@@ -24,12 +24,19 @@
 
 ### 👤 About Me
 
-I am a passionate **Frontend Developer** focused on building interactive and user-friendly web applications. I love turning complex problems into simple, beautiful, and intuitive designs.
+- 💡 **Core Expertise:** Passionate about building interactive and user-friendly web applications.
+  <br/>
 
-- 🛠️ Expertise in **React.js** and **Vue.js** ecosystems.
-- 🎨 Advanced styling with **Tailwind CSS** and Responsive Design.
-- ⚡ Building fast and optimized web apps using **Vite**.
-- 📚 Constantly learning and improving my skills in software architecture.
+- ⚛️ **Frameworks:** Highly skilled in **React.js** and **Vue.js** ecosystems.
+  <br/>
+
+- 🎨 **Styling:** Advanced UI development using **Tailwind CSS** and Responsive Design.
+  <br/>
+
+- ⚡ **Optimization:** Building fast, scalable, and optimized web apps using **Vite**.
+  <br/>
+
+- 🧠 **Mindset:** Constantly learning and improving my skills in modern software architecture.
 
 ---
 
@@ -41,7 +48,7 @@ I am a passionate **Frontend Developer** focused on building interactive and use
 
 ---
 
-### 📊 GitHub Statistics
+### 📊 GitHub Analytics
 
 <div align="center">
   <table border="0">
@@ -57,7 +64,7 @@ I am a passionate **Frontend Developer** focused on building interactive and use
   
   <br/>
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DolimovS&theme=tokyonight&hide_border=true&area=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DolimovS&bg_color=0D1117&color=00D1FF&line=00D1FF&point=FFFFFF&area=true&hide_border=true" width="100%" />
 </div>
 
 ---
