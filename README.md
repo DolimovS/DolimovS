@@ -1,26 +1,30 @@
-<!-- SEO META -->
+<!-- SEO TITLE -->
 <h1 align="center">Dolimov Samandar — Frontend Engineer</h1>
 <h3 align="center">React • Vue • Tailwind • Vite</h3>
 
 <p align="center">
-  Frontend Engineer specializing in modern, fast, and scalable web interfaces.
+  Frontend Engineer focused on building modern, fast and scalable web interfaces.
 </p>
 
 ---
 
+<!-- BRANDING HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D1FF&height=180&section=header&text=Dolimov%20Samandar&fontSize=60&fontAlignY=40" width="100%" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=00D1FF&height=180&section=header&text=Building%20Modern%20Web%20Interfaces&fontSize=48&fontAlignY=40"
+    width="100%"
+  />
 </div>
 
 ---
 
 ## 🚀 About Me
 
-- Frontend Engineer focused on **clean UI & UX**
-- Strong expertise in **React.js & Vue.js**
-- Styling with **Tailwind CSS**
-- Performance-first mindset using **Vite**
-- Always learning modern frontend architecture
+- Frontend Engineer with a strong focus on **UI / UX**
+- Specialized in **React.js** and **Vue.js**
+- Styling modern interfaces with **Tailwind CSS**
+- Performance-driven development using **Vite**
+- Constantly learning modern frontend architecture
 
 ---
 
@@ -60,7 +64,7 @@
 
 <p align="center">
   <a href="https://www.codewars.com/users/DolimovS">
-    <img src="https://www.codewars.com/users/DolimovS/badges/large" />
+    <img src="https://www.codewars.com/users/DolimovS/badges/large" alt="Codewars Profile" />
   </a>
 </p>
 
@@ -82,6 +86,10 @@
 
 ---
 
+<!-- FOOTER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D1FF&height=100&section=footer" width="100%" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=00D1FF&height=100&section=footer"
+    width="100%"
+  />
 </div>
